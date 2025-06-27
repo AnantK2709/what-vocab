@@ -1,13 +1,9 @@
-import twilio
 from twilio.rest import Client
 from dotenv import load_dotenv
 import os
-import csv
 import pandas as pd
-import random
 from groq import Groq
 import datetime
-import schedule
 
 load_dotenv()
 
