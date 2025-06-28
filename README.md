@@ -1,8 +1,3 @@
-Here’s a clean and professional `README.md` for your project — suitable for public sharing on GitHub:
-
----
-
-```markdown
 # 📚 Daily Vocab Bot — Telegram + WhatsApp
 
 This project automates the daily sending of vocabulary messages to:
